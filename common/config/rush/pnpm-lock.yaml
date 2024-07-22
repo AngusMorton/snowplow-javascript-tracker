@@ -1671,6 +1671,7 @@ importers:
       '@snowplow/browser-plugin-media-tracking': workspace:*
       '@snowplow/browser-plugin-optimizely': workspace:*
       '@snowplow/browser-plugin-optimizely-x': workspace:*
+      '@snowplow/browser-plugin-performance-navigation-timing': workspace:*
       '@snowplow/browser-plugin-performance-timing': workspace:*
       '@snowplow/browser-plugin-privacy-sandbox': workspace:*
       '@snowplow/browser-plugin-site-tracking': workspace:*
@@ -1742,6 +1743,7 @@ importers:
       '@snowplow/browser-plugin-media-tracking': link:../../plugins/browser-plugin-media-tracking
       '@snowplow/browser-plugin-optimizely': link:../../plugins/browser-plugin-optimizely
       '@snowplow/browser-plugin-optimizely-x': link:../../plugins/browser-plugin-optimizely-x
+      '@snowplow/browser-plugin-performance-navigation-timing': link:../../plugins/browser-plugin-performance-navigation-timing
       '@snowplow/browser-plugin-performance-timing': link:../../plugins/browser-plugin-performance-timing
       '@snowplow/browser-plugin-privacy-sandbox': link:../../plugins/browser-plugin-privacy-sandbox
       '@snowplow/browser-plugin-site-tracking': link:../../plugins/browser-plugin-site-tracking

@@ -103,6 +103,10 @@
       "allowedCategories": [ "trackers" ]
     },
     {
+      "name": "@snowplow/browser-plugin-performance-navigation-timing",
+      "allowedCategories": [ "trackers" ]
+    },
+    {
       "name": "@snowplow/browser-plugin-performance-timing",
       "allowedCategories": [ "trackers" ]
     },
